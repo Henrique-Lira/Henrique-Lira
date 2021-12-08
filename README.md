@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Student Full Stack Developer passionate about the best web and mobile development technologies. I have experience in projects freelance and personal, using HTML, CSS, JavaScript. I am a student of the Discorver and Ignite training at Rocketseat, where I am learning in practice the most modern technology for web and mobile development. I'm looking for opportunities in the area of web/mobile development.
+I'm a web and mobile development student passionate about the best development technologies. I have experience in projects freelance and personal, using HTML, CSS, JavaScript. I am a student of the Discorver and Ignite training at Rocketseat, where I am learning in practice the most modern technology for web and mobile development. I'm looking for opportunities in the area of web/mobile development.
 
 - 🎓 Academic education: Analysis and Systems Development in Unifavip Wyden (2020 - Moment)
 - 📚 Online courses: ProgBR Of Igor Oliveira (Ago/2021 - Moment)  &  Rocketseat (Nov/2021 - Moment)

@@ -5,11 +5,17 @@ I'm a web and mobile development student passionate about the best development t
 - 📚 Online courses: ProgBR Of Igor Oliveira (Ago/2021 - Moment)  &  Rocketseat (Nov/2021 - Moment)
 - 🌱 Learning: NODE.JS & REACT
 - See my LinkedIn: <a href="https://www.linkedin.com/in/henrique-lira-790758217/" target="_blank">HENRIQUE LIRA
-<div align="center">
-  <a href="https://github.com/Henrique-Lira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Lira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Lira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<div align="center" >
+
+[![Henrique-Lira github stats](https://github-readme-stats.vercel.app/api?username=Henrique-Lira&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Lira&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-lira-790758217/">
+ 
+  </a>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Henique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
